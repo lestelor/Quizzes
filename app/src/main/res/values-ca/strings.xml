@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Qüestionari</string>
+    <string name="Send">Enviar</string>
+    <string name="Next">Següent</string>
+    <string name="Texto_resultado">CORRECTE!!!</string>
+    <string name="Felicidades_bt">Comença de nou</string>
+    <string name="Felicidades_txt">FELICITATS!! \n HAS ACABAT la LLIÇÓ!!!</string>
+    <string name="SelectOption">Si us plau, selecciona una opcció</string>
+    <string name="Question1">Quin monument es veu a la imatge?</string>
+    <string name="Question2">De quina serie es tracta?</string>
+    <string name="Question3">Quin planeta es?</string>
+    <string name="Try_again">Intenta-ho de nou</string>
+    <string name="tv_22_txt">Respostes correctes: \n</string>
+</resources>

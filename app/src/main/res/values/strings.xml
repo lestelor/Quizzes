@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quizzes</string>
+    <string name="Question1">What monument is shown in the image?</string>
+    <string name="Question2">What cartoon is it?</string>
+    <string name="Question3">What planet is it?</string>
+    <string name="Send">Send</string>
+    <string name="Next">Next</string>
+    <string name="Try_again">Try again</string>
+    <string name="Texto_resultado">RIGHT!!!</string>
+    <string name="Felicidades_bt">Start again</string>
+    <string name="Felicidades_txt">CONGRATULATIONS!! \n YOU HAVE FINISHED THE LESSON!!</string>
+    <string name="SelectOption">Please, select an option</string>
+    <string name="tv_22_txt">Correct answers: \n</string>
+</resources>

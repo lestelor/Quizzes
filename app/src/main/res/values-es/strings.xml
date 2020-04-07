@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cuestionario</string>
+    <string name="Send">Enviar</string>
+    <string name="Next">Siguiente</string>
+    <string name="Try_again">Inténtalo de nuevo</string>
+    <string name="Texto_resultado">¡¡¡CORRECTO!!!!</string>
+    <string name="Felicidades_bt">Empieza de nuevo</string>
+    <string name="Felicidades_txt">¡¡¡FELICIDADES!!! \n ¡¡¡HAS FINALIZADO LA LECCIÓN!!</string>
+    <string name="SelectOption">Por favor, selecciona una opción</string>
+    <string name="Question1">¿Qué monumento se ve en la imagen?</string>
+    <string name="Question2">¿De qué serie animada se trata?</string>
+    <string name="Question3">¿De qué planeta se trata?</string>
+    <string name="tv_22_txt">Respuestas correctas: \n</string>
+</resources>
