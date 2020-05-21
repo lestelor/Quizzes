@@ -20,7 +20,8 @@ import org.junit.Rule
 import org.junit.Test
 import org.junit.runner.RunWith
 
-
+// The major part of the code corresponds to the result of execute run-> Record Espresso Test, checking
+// some variables that are indicated below.
 @LargeTest
 @RunWith(AndroidJUnit4::class)
 class MainActivityTest {
