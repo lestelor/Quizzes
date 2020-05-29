@@ -23,7 +23,28 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }
+// Specifies the flavor dimensions you want to use. The order in which you
+    // list each dimension determines its priority, from highest to lowest,
+    // when Gradle merges variant sources and configurations. You must assign
+    // each product flavor you configure to one of the flavor dimensions.
+    flavorDimensions'version'
 
+    productFlavors {
+        demo {
+            // Assigns this product flavor to the 'version' flavor dimension.
+            dimension 'version'
+            applicationIdSuffix ".demo"
+            versionNameSuffix "-demo"
+
+        }
+
+        full {
+            dimension 'version'
+            applicationIdSuffix ".full"
+            versionNameSuffix "-full"
+        }
+
+    }
 }
 
 dependencies {
